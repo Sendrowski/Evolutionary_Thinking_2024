@@ -1,0 +1,6 @@
+name: base-r
+channels:
+  - conda-forge
+dependencies:
+  - r-base
+  - r-tidyverse

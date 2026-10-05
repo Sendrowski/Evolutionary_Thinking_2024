@@ -3,3 +3,6 @@
 .Rhistory
 .ipynb_checkpoints/
 .DS_Store
+__MACOSX/
+/week44/Friday/exercise/data/
+/week44/Friday/exercise/goats.zip
